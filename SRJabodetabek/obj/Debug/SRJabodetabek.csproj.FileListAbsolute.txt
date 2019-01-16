@@ -1,0 +1,8 @@
+D:\Dotnet project\SariRHW\SRJabodetabek\SRJabodetabek\bin\Debug\SRJabodetabek.exe.config
+D:\Dotnet project\SariRHW\SRJabodetabek\SRJabodetabek\bin\Debug\SRJabodetabek.exe
+D:\Dotnet project\SariRHW\SRJabodetabek\SRJabodetabek\bin\Debug\SRJabodetabek.pdb
+D:\Dotnet project\SariRHW\SRJabodetabek\SRJabodetabek\bin\Debug\SpssLib.dll
+D:\Dotnet project\SariRHW\SRJabodetabek\SRJabodetabek\bin\Debug\SpssLib.xml
+D:\Dotnet project\SariRHW\SRJabodetabek\SRJabodetabek\obj\Debug\SRJabodetabek.csprojResolveAssemblyReference.cache
+D:\Dotnet project\SariRHW\SRJabodetabek\SRJabodetabek\obj\Debug\SRJabodetabek.exe
+D:\Dotnet project\SariRHW\SRJabodetabek\SRJabodetabek\obj\Debug\SRJabodetabek.pdb
